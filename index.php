@@ -11,6 +11,7 @@
 <body>
 
   <?php
+  // Configuration file.
   include_once("includes/config.php");
 
   // Initialize All The Variables.

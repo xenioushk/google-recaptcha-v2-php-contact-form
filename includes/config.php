@@ -21,4 +21,4 @@ if (file_exists($envFile)) {
 }
 
 define("GRC_SITE_KEY", getenv('GRC_SITE_KEY'));
-define("GRC_SECRET_KEY", getenv('GRC_SITE_KEY'));
+define("GRC_SECRET_KEY", getenv('GRC_SECRET_KEY'));
